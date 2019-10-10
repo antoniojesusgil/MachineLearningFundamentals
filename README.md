@@ -1,9 +1,13 @@
 # MachineLearningFundamentals
 Curso de iniciación a Machine Learning
 
-### Clonar proyecto
+### Clonar git
 
-git clone https://github.com/antoniojesusgil/MachineLearningFundamentals.git
+`git clone https://github.com/antoniojesusgil/MachineLearningFundamentals.git`
+
+### Actualizar git
+`git fetch`
+`git pull`
 
 
 ### Imagen docker
