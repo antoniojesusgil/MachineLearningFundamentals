@@ -7,6 +7,7 @@ Curso de iniciación a Machine Learning
 
 ### Actualizar git
 `git fetch`
+
 `git pull`
 
 
